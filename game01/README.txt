@@ -1,6 +1,6 @@
 ******** Challenge 01 ********
 
-Find the password, and you'll get the entry for next level.
+Find the password to finish the level.
 
 hint : reverse engineer the binary file
 
